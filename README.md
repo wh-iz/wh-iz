@@ -8,7 +8,7 @@
 </p>
 
 ---
-![snake animation](https://github.com/wh-iz/wh-iz/blob/output/dist/github-snake.svg)
+![snake animation](https://github.com/wh-iz/wh-iz/blob/output/github-snake.svg)
 
 ---
 
