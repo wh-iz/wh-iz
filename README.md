@@ -3,8 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/wh-iz">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=2FF3E0&center=true&vCenter=true&width=450&lines=AI+Model+Detection+Specialist;Real-Time+Vision+Systems;CUDA+%7C+TensorRT+%7C+.NET+%7C+C%2B%2B" alt="Typing SVG">
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=2FF3E0&center=true&vCenter=true&width=450&lines=Pwning+binaries+for+breakfast;Chasing+segfaults+%26+0-days;Just+another+day+in+the+matrix" alt="Typing SVG">  </a>
 </p>
 
 ---
