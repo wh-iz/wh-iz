@@ -1,17 +1,17 @@
 <!-- Profile Header Animated Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09122C,50:113f67,100:2FF3E0&height=220&section=header&text=whiz&fontSize=70&fontAlignY=38&desc=It's%20not%20a%20bug%20--%20it's%20an%20undocumented%20feature&descAlignY=62&descSize=20&fontColor=2FF3E0&animation=twinkling" width="100%" alt="whiz banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B0764,100:B388FF&height=220&section=header&text=whiz&fontSize=70&fontAlignY=38&desc=It's%20not%20a%20bug%20--%20it's%20an%20undocumented%20feature&descAlignY=62&descSize=20&fontColor=B388FF&animation=twinkling" width="100%" alt="whiz banner" />
 </div>
 
 <!-- Typewriter Animation -->
 <div align="center">
   <a href="https://github.com/wh-iz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2FF3E0&center=true&vCenter=true&width=600&lines=printf(%22Hello+World!+I'm+whiz+%F0%9F%91%8B%5Cn%22)%3B;Pwning+binaries+for+breakfast+%F0%9F%A5%A3;Chasing+segfaults+%26+0-days+%F0%9F%91%BE;Building+with+C%2B%2B%2C+C%23%2C+C+%26+Python+%E2%9A%A1;Fullstack+Dev%3A+PHP%2C+JS%2C+HTML+%26+CSS+%F0%9F%8C%90;Just+another+day+in+the+matrix...+%F0%9F%95%B6%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=600&lines=printf(%22Hello+World!+I'm+whiz+%F0%9F%91%8B%5Cn%22)%3B;Pwning+binaries+for+breakfast+%F0%9F%A5%A3;Chasing+segfaults+%26+0-days+%F0%9F%91%BE;Building+with+C%2B%2B%2C+C%23%2C+C+%26+Python+%E2%9A%A1;Fullstack+Dev%3A+PHP%2C+JS%2C+HTML+%26+CSS+%F0%9F%8C%90;Just+another+day+in+the+matrix...+%F0%9F%95%B6%EF%B8%8F" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wh-iz&label=PROFILE+VIEWS&style=for-the-badge&color=2ff3e0" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=wh-iz&label=PROFILE+VIEWS&style=for-the-badge&color=B388FF" alt="Profile Views" />
 </p>
 
 ---
@@ -95,16 +95,16 @@ Developer whiz = {
 
 <div align="center">
   <a href="https://github.com/wh-iz">
-    <img height="185" src="https://github-stats-extended.vercel.app/api?username=wh-iz&show_icons=true&bg_color=0d1117&title_color=2ff3e0&icon_color=2ff3e0&text_color=c9d1d9&border_color=30363d" alt="GitHub Stats" />
+    <img height="185" src="https://github-stats-extended.vercel.app/api?username=wh-iz&show_icons=true&bg_color=0d1117&title_color=B388FF&icon_color=B388FF&text_color=c9d1d9&border_color=3B0764" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/wh-iz">
-    <img height="185" src="https://streak-stats.demolab.com/?user=wh-iz&background=0d1117&ring=2ff3e0&fire=2ff3e0&currStreakLabel=2ff3e0&currStreakNum=2ff3e0&sideNums=2ff3e0&sideLabels=c9d1d9&dates=8b949e&border_color=30363d" alt="GitHub Streak" />
+    <img height="185" src="https://streak-stats.demolab.com/?user=wh-iz&background=0d1117&ring=B388FF&fire=B388FF&currStreakLabel=B388FF&currStreakNum=B388FF&sideNums=B388FF&sideLabels=c9d1d9&dates=8b949e&border_color=3B0764" alt="GitHub Streak" />
   </a>
 </div>
 
 <div align="center" style="margin-top: 15px;">
   <a href="https://github.com/wh-iz">
-    <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=wh-iz&layout=compact&bg_color=0d1117&title_color=2ff3e0&text_color=c9d1d9&border_color=30363d" alt="Most Used Languages" />
+    <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=wh-iz&layout=compact&bg_color=0d1117&title_color=B388FF&text_color=c9d1d9&border_color=3B0764" alt="Most Used Languages" />
   </a>
 </div>
 
@@ -126,14 +126,14 @@ Developer whiz = {
 
 <p align="center">
   <a href="https://www.unknowncheats.me/forum/members/5380710.html" target="_blank">
-    <img src="https://img.shields.io/badge/UnknownCheats-1F2937?style=for-the-badge&logoColor=2FF3E0" alt="UnknownCheats" />
+    <img src="https://img.shields.io/badge/UnknownCheats-1F2937?style=for-the-badge&logoColor=B388FF" alt="UnknownCheats" />
   </a>
   <a href="https://github.com/wh-iz" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=2FF3E0" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=B388FF" alt="GitHub" />
   </a>
 </p>
 
 <!-- Profile Footer Animated Wave -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09122C,50:113f67,100:2FF3E0&height=100&section=footer" width="100%" alt="footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B0764,100:B388FF&height=100&section=footer" width="100%" alt="footer wave" />
 </div>
