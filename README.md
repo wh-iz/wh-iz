@@ -22,8 +22,6 @@
 /* whiz.c */
 Developer whiz = {
     .languages = { "C", "C++", "C#", "Python", "PHP", "JavaScript", "HTML5", "CSS3" },
-    .passions  = { "Low-Level Programming", "Reverse Engineering", "Fullstack Web Dev" },
-    .motto     = "Pwning binaries for breakfast & chasing segfaults 🚀"
 };
 ```
 
