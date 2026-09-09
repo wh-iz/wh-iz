@@ -1,6 +1,6 @@
-<!-- Profile Header Animated Banner -->
+<!-- Profile Header Animated Banner with LEMON MILK Font -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B0764,100:B388FF&height=220&section=header&text=whiz&fontSize=70&fontAlignY=38&desc=It's%20not%20a%20bug%20--%20it's%20an%20undocumented%20feature&descAlignY=62&descSize=20&fontColor=B388FF&animation=twinkling" width="100%" alt="whiz banner" />
+  <img src="https://raw.githubusercontent.com/wh-iz/wh-iz/main/header.svg" width="100%" alt="whiz banner" />
 </div>
 
 <!-- Typewriter Animation -->
