@@ -1,6 +1,6 @@
 <!-- Profile Header Animated Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09122C,50:113f67,100:2FF3E0&height=220&section=header&text=whiz&fontSize=70&fontAlignY=38&desc=Systems%20%7C%20Reverse%20Engineering%20%7C%20Fullstack%20Dev&descAlignY=62&descSize=20&animation=twinkling" width="100%" alt="whiz banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09122C,50:113f67,100:2FF3E0&height=220&section=header&text=whiz&fontSize=70&fontAlignY=38&desc=It's%20not%20a%20bug%20--%20it's%20an%20undocumented%20feature&descAlignY=62&descSize=20&fontColor=2FF3E0&animation=twinkling" width="100%" alt="whiz banner" />
 </div>
 
 <!-- Typewriter Animation -->
